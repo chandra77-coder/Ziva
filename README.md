@@ -8,15 +8,15 @@ Version: `1.0.0`
 
 ## Status
 
-Initial app source is uploaded. GitHub Actions is configured to build a debug APK for testing.
+APK build workflow is configured in GitHub Actions.
 
 ## Download APK
 
 After GitHub Actions finishes:
 
 1. Open the Actions tab.
-2. Click the latest Build Ziva APK run.
-3. Download the APK artifact.
+2. Click the latest Build Android APK run.
+3. Download the `Ziva-debug-apk` artifact.
 4. Extract the ZIP and install the APK on Android.
 
 ## Privacy
@@ -25,4 +25,4 @@ Ziva is designed to work offline. No login, no ads, no analytics, no cloud uploa
 
 ## Build note
 
-Workflow trigger check committed after the APK workflow was added.
+Workflow trigger refreshed after adding the APK workflow.
