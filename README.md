@@ -23,6 +23,6 @@ After GitHub Actions finishes:
 
 Ziva is designed to work offline. No login, no ads, no analytics, no cloud upload.
 
-## Note
+## Build note
 
-This is the first safe build. More tools and smoother UI will be improved after the APK build is confirmed.
+Workflow trigger check committed after the APK workflow was added.
