@@ -8,14 +8,14 @@ Version: `1.0.0`
 
 ## Status
 
-APK build workflow is configured in GitHub Actions.
+APK build workflow is configured in GitHub Actions. The setup-node cache error was fixed by removing npm cache from the workflow.
 
 ## Download APK
 
 After GitHub Actions finishes:
 
 1. Open the Actions tab.
-2. Click the latest Build Android APK run.
+2. Click the latest Build Ziva APK run.
 3. Download the `Ziva-debug-apk` artifact.
 4. Extract the ZIP and install the APK on Android.
 
@@ -25,4 +25,4 @@ Ziva is designed to work offline. No login, no ads, no analytics, no cloud uploa
 
 ## Build note
 
-Workflow trigger refreshed after adding the APK workflow.
+Fresh workflow trigger after removing Node cache.
