@@ -8,7 +8,7 @@ Version: `1.0.0`
 
 ## Status
 
-The app source is being uploaded and improved.
+Initial app source is uploaded. GitHub Actions is configured to build a debug APK for testing.
 
 ## Download APK
 
@@ -22,3 +22,7 @@ After GitHub Actions finishes:
 ## Privacy
 
 Ziva is designed to work offline. No login, no ads, no analytics, no cloud upload.
+
+## Note
+
+This is the first safe build. More tools and smoother UI will be improved after the APK build is confirmed.
